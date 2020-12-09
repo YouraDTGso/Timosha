@@ -27,7 +27,7 @@ public class Shot : MonoBehaviour
         //RaycastHit hit;
         float enter;
         Ray ray = mainCamera.ScreenPointToRay(ShotButton.transform.position);
-        new Plane(-Vector3.forward, fromShot.transform.position).Raycast(ray, out enter);
+        new Plane(Vector3.forward, fromShot.transform.position).Raycast(ray, out enter);
         Vector3 buttonPos = ray.GetPoint(enter);
 
         //speed = (buttonPos - transform.position) * power;

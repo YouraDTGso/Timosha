@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 1625512fa4c125b43a0a641c6e552fe7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body Sam.002
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: Bone.003
+    100014: Bone.004
+    100016: Bone.004_end
+    100018: breast
+    100020: endleg.l
+    100022: endleg.l_end
+    100024: endleg.r
+    100026: endleg.r_end
+    100028: head
+    100030: head_end
+    100032: hends_common_bone
+    100034: ik.l
+    100036: ik.l_end
+    100038: ik_hand.l
+    100040: ik_hand.l_end
+    100042: ik_hand.r
+    100044: ik_hand.r_end
+    100046: ikr
+    100048: ikr_end
+    100050: left_arm
+    100052: left_arm_end
+    100054: left_forearm
+    100056: left_hip
+    100058: left_shin
+    100060: left_shoulder
+    100062: leg.l
+    100064: leg.r
+    100066: neck
+    100068: Origin Armat.001
+    100070: right_arm
+    100072: right_arm_end
+    100074: right_forearm
+    100076: right_hip
+    100078: right_shin
+    100080: right_shoulder
+    100082: //RootNode
+    100084: stomach
+    100086: target.l
+    100088: target.l_end
+    100090: target.r
+    100092: target.r_end
+    100094: target_hand.l
+    100096: target_hand.l_end
+    100098: target_hand.r
+    100100: target_hand.r_end
+    100102: Weelbarrow.001
+    100104: wheel.001
+    400000: Body Sam.002
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: Bone.003
+    400014: Bone.004
+    400016: Bone.004_end
+    400018: breast
+    400020: endleg.l
+    400022: endleg.l_end
+    400024: endleg.r
+    400026: endleg.r_end
+    400028: head
+    400030: head_end
+    400032: hends_common_bone
+    400034: ik.l
+    400036: ik.l_end
+    400038: ik_hand.l
+    400040: ik_hand.l_end
+    400042: ik_hand.r
+    400044: ik_hand.r_end
+    400046: ikr
+    400048: ikr_end
+    400050: left_arm
+    400052: left_arm_end
+    400054: left_forearm
+    400056: left_hip
+    400058: left_shin
+    400060: left_shoulder
+    400062: leg.l
+    400064: leg.r
+    400066: neck
+    400068: Origin Armat.001
+    400070: right_arm
+    400072: right_arm_end
+    400074: right_forearm
+    400076: right_hip
+    400078: right_shin
+    400080: right_shoulder
+    400082: //RootNode
+    400084: stomach
+    400086: target.l
+    400088: target.l_end
+    400090: target.r
+    400092: target.r_end
+    400094: target_hand.l
+    400096: target_hand.l_end
+    400098: target_hand.r
+    400100: target_hand.r_end
+    400102: Weelbarrow.001
+    400104: wheel.001
+    2100000: body
+    2100002: hair
+    2100004: Eyes
+    2100006: Mouth
+    2100008: Sweetshot
+    2100010: pens
+    2100012: boots
+    2100014: Material
+    2100016: Material.001
+    2100018: Box
+    2100020: scel
+    2300000: Weelbarrow.001
+    2300002: wheel.001
+    3300000: Weelbarrow.001
+    3300002: wheel.001
+    4300000: Body Sam.002
+    4300002: wheel.001
+    4300004: Weelbarrow.001
+    7400000: Origin Armat.001|Action
+    7400002: Origin Armat.001|Idle 1
+    7400004: Origin Armat.001|Idle.001
+    7400006: Run_perfect_orig
+    7400008: Origin Armat.001|Test of Run
+    7400010: Origin Armat.001|Test of Run Second
+    7400012: wheel.001|Action
+    7400014: wheel.001|Idle 1
+    7400016: wheel.001|Idle.001
+    7400018: wheel.001|Run_perfect
+    7400020: Weelbarrow.001|Action
+    7400022: Weelbarrow.001|Idle 1
+    7400024: Weelbarrow.001|Idle.001
+    9500000: //RootNode
+    13700000: Body Sam.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run_perfect_orig
+      takeName: Origin Armat.001|Run_perfect
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
